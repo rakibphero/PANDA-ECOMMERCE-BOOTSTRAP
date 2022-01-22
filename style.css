@@ -1,0 +1,37 @@
+.banner-bg{
+    background-color: #fceae8;
+}
+.buy-now-button{
+    background-color: #ff5e87;
+    border: none;
+}
+.categories img{
+    width: 100px;
+}
+#subscribe{
+    height: 300px;
+    background-color: #fceae8;
+}
+.footer-section p {
+    background-color: #ff5e87;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+#watch{
+    margin-right: 5px;
+
+    width: 359px;
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+#bag{
+    margin-right: 5px;
+    width: 359px;
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+#shoe{
+    margin-right: 5px;
+
+    width: 359px;
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
